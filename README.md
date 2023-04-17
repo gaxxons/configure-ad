@@ -1,8 +1,8 @@
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<p align="left">
+<img src="images/adds-column-ttl.png" alt="Azure active Directory Domain Service"  />
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+<h1>Basic Azure AD Domain Services and VM Joining Setup</h1>
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
