@@ -58,11 +58,11 @@ From Microsoft Azure porta, Search for <b>Azure AD Domain Services</b> and click
 <p>
 <b>- Step 8:</b>
 <p>
-<img src="images/AD-8.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/AD-9.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b>- Step 9:</b>
 <p>
-<img src="images/AD-9.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/AD-0.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
