@@ -1,27 +1,23 @@
-<p align="left">
-<img src="images/adds-column-ttl.png" alt="Azure active Directory Domain Service"  />
+<p align="center">
+<img src="images/adds-column-header.png" alt="Azure active Directory Domain Service"  />
 </p>
 
-<h1>Basic Azure AD Domain Services and VM Joining Setup</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>Basic Azure AD Domain Services and VM Joining Setup.</h1>
+Azure Active Directory Domain Services (Azure AD DS) provides managed domain services such as domain join, group policy, LDAP, Kerberos/NTLM authentication that is fully compatible with Windows Server Active Directory. The integration lets users sign in using their corporate credentials, and you can use existing groups and user accounts to secure access to resources.. <br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Prerequisites and Technologies Used</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
-
-<h2>Environments and Technologies Used</h2>
-
+- An active Azure subscription
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Virtual Machine with DNS Server
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Various Network Protocols ( RDH, DNS, )
 
 <h2>Operating Systems Used </h2>
-
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows Server 2022
 
 <h2>High-Level Steps</h2>
 
