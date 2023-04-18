@@ -19,14 +19,20 @@ Azure Active Directory Domain Services (Azure AD DS) provides managed domain ser
 - Windows 10 (21H2)
 - Windows Server 2022
 
+<h2>Actions and Observations</h2>
 <h2>High-Level Steps</h2>
 
-- Step 1
+<b>- Step 1</b>
+Let’s go to the Microsoft Azure portal. Search for Azure AD Domain Services and click on the search result Azure AD Domain Services.
+<p>
+<img src="images/AD-1.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 - Step 2
 - Step 3
 - Step 4
 
-<h2>Actions and Observations</h2>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
