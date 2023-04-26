@@ -116,7 +116,7 @@ We have to create a Windows server Virtual Machine for Azure AD DS Management To
 </p>
 <b>- Step 7:</b>
  It is time to Add the DNS IP address (Azure AD Domain Services) on the Vnet. From the Searchbar, search for the Virtual Network and click on it. The images below illustrates the process. 
-<img src="images/vm-7.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br><br>
+<img src="images/vm-7.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
 <img src="images/vm-10.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br><br>
 </p>
 
