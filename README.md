@@ -88,7 +88,7 @@ You can now see, the deployment is completed.
 </p>
 
 <b>- Step 2:</b>
-We have to create a Windows server Virtual Machine for Azure AD DS Management Tools. Follow the below screenshot to create a VM.
+<p>We have to create a Windows server Virtual Machine for Azure AD DS Management Tools. Follow the below screenshot to create a VM.
 <img src="images/vm-2.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
@@ -103,7 +103,7 @@ We have to create a Windows server Virtual Machine for Azure AD DS Management To
 </p>
 
 <b>- Step 5:</b>
- Now, it will validate all the data entered by me and show you the Validation passed. Click on Create.
+<p> Now, it will validate all the data entered by me and show you the Validation passed. Click on Create.
 <img src="images/vm-5.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
 <img src="images/vm-6.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -111,17 +111,21 @@ We have to create a Windows server Virtual Machine for Azure AD DS Management To
 
 <b>- Step 6:</b>
  It is time to Add the DNS IP address (Azure AD Domain Services) on the Vnet. From the Searchbar, search for the Virtual Network and click on it. The images below illustrates the process. 
-<img src="images/vm-7.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
+<p><img src="images/vm-7.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
 <img src="images/vm-8.1.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b>- Step 7:</b>
  It is time to Add the DNS IP address (Azure AD Domain Services) on the Vnet. From the Searchbar, search for the Virtual Network and click on it. The images below illustrates the process. 
-<img src="images/vm-9.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
+<p><img src="images/vm-9.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
 <img src="images/vm-10.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
 <img src="images/vm-11.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
 <img src="images/vm-12.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="images/vm-12-final.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<b>Conclusion</b>
+ It is time to Add the DNS IP address (Azure AD Domain Services) on the Vnet. From the Searchbar, search for the Virtual Network and click on it. The images below illustrates the process. 
+
+</p>
 
 <br />
