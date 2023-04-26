@@ -56,12 +56,12 @@ In the Networking window, Select the Virtual Network and Subnet, or we can creat
 <b>- Step 7:</b>
 From Microsoft Azure porta, Search for <b>Azure AD Domain Services</b> and click on the search result <b>Azure AD Domain Services</b>.
 <p>
-<img src="images/AD-6.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/AD-7.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b>- Step 8:</b>
 <p>
-<img src="images/AD-9.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/AD-6.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b>- Step 9:</b>
 <p>
