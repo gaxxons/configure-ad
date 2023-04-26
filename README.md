@@ -78,10 +78,14 @@ You can now see, the deployment is completed.
 <img src="images/ad-final.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h1><u>The following steps will guide you to create VM.</u></h1><br />
 
 
-
-
+<b>- Step 1:</b>
+You can now see, the deployment is completed. 
+<p>
+<img src="images/vm-1.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
