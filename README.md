@@ -29,10 +29,12 @@ From Microsoft Azure porta, Search for <b>Azure AD Domain Services</b> and click
 </p>
 <p>
 <b>- Step 2:</b>
+Click on the Create Azure AD Domain Services button on the Azure AD Domain Services window.
 <p>
 <img src="images/ad2-1.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b>- Step 3:</b>
+Now select the Azure Subscription and the Resource group. Select your DNS domain name as your wish then Click on Next.
 <p>
 <img src="images/AD-3.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
