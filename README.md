@@ -82,13 +82,13 @@ You can now see, the deployment is completed.
 
 
 <b>- Step 1:</b>
-You can now see, the deployment is completed. 
+ It is time to create a Windows server Virtual Machine for Azure AD DS Management Tools. Follow the below screenshot to create a VM.. 
 <p>
 <img src="images/vm-1.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <b>- Step 2:</b>
-You can now see, the deployment is completed. 
+In the Networking tab, select the Virtual Network and Subnet connected to the Azure AD Domain Services. Then click Review + create. 
 <img src="images/vm-2.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
