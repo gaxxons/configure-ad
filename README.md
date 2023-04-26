@@ -50,17 +50,19 @@ In the Administration window, Leave everything default. Click on Next.
 <img src="images/AD-4.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b>- Step 6:</b>
+In the Security Settings windows, Leave everything as default.
 <p>
 <img src="images/AD-5.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <b>- Step 7:</b>
-From Microsoft Azure porta, Search for <b>Azure AD Domain Services</b> and click on the search result <b>Azure AD Domain Services</b>.
+In this section the system will review your configuration to allow you to create.When review is done,then click on Review + create.
 <p>
 <img src="images/AD-7.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b>- Step 8:</b>
+This image displays the Summary of the settings you made in the previouse step. You should remember them.
 <p>
 <img src="images/AD-6.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
