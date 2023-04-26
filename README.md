@@ -101,4 +101,17 @@ We have to create a Windows server Virtual Machine for Azure AD DS Management To
  Now, it will validate all the data entered by me and show you the Validation passed. Click on Create.
 <img src="images/vm-4.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<b>- Step 5:</b>
+ Now, it will validate all the data entered by me and show you the Validation passed. Click on Create.
+<img src="images/vm-5.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
+<img src="images/vm-6.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<b>- Step 6:</b>
+ Now, it will validate all the data entered by me and show you the Validation passed. Click on Create.
+<img src="images/vm-7.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
+<img src="images/vm-8.1.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
