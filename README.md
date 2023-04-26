@@ -126,14 +126,14 @@ Below Images shows how you .
 <b>Conclusion</b>
  This ends our process of creating Azure AD Domain Service.
 
-<b>You can install the following features from the console to make your system run smoothly.</b>
-*Role Administration Tools
-*ADDS and AD LDS Tools
-*Active Directory module for Windows PowerShell
-*AD DS Tools
-*AD DS Snap-ins and Command-Line Tools
-*Group Policy Management Console (GPMC)
-*DNS Server Manager
+<b>You can install the following features from the console to make your system run smoothly.</b><br>
+*Role Administration Tools<br>
+*ADDS and AD LDS Tools<br>
+*Active Directory module for Windows PowerShell<br>
+*AD DS Tools<br>
+*AD DS Snap-ins and Command-Line Tools<br>
+*Group Policy Management Console (GPMC)<br>
+*DNS Server Manager<br>
 
 </p>
 
