@@ -46,11 +46,11 @@ In the Networking window, Select the Virtual Network and Subnet, or we can creat
 <p>
 <b>- Step 5:</b>
 <p>
-<img src="images/AD-5.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/AD-4.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b>- Step 6:</b>
 <p>
-<img src="images/AD-6.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/AD-5.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <b>- Step 7:</b>
