@@ -124,7 +124,7 @@ You can now see, the deployment is completed.
 </p>
 
 <b>Conclusion</b>
- It is time to Add the DNS IP address (Azure AD Domain Services) on the Vnet. From the Searchbar, search for the Virtual Network and click on it. The images below illustrates the process. 
+ This ends our process of creating Azure AD Domain Service . 
 
 </p>
 
