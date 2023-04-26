@@ -115,7 +115,7 @@ You can now see, the deployment is completed.
 <img src="images/vm-8.1.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b>- Step 7:</b>
- It is time to Add the DNS IP address (Azure AD Domain Services) on the Vnet. From the Searchbar, search for the Virtual Network and click on it. The images below illustrates the process. 
+Below Images shows how you . 
 <p><img src="images/vm-9.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
 <img src="images/vm-10.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
 <img src="images/vm-11.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/><br>
@@ -124,7 +124,16 @@ You can now see, the deployment is completed.
 </p>
 
 <b>Conclusion</b>
- This ends our process of creating Azure AD Domain Service . 
+ This ends our process of creating Azure AD Domain Service.
+
+<b>You can install the following features from the console to make your system run smoothly.</b>
+*Role Administration Tools
+*ADDS and AD LDS Tools
+*Active Directory module for Windows PowerShell
+*AD DS Tools
+*AD DS Snap-ins and Command-Line Tools
+*Group Policy Management Console (GPMC)
+*DNS Server Manager
 
 </p>
 
