@@ -45,6 +45,7 @@ In the Networking window, Select the Virtual Network and Subnet, or we can creat
 </p>
 <p>
 <b>- Step 5:</b>
+In the Administration window, Leave everything default. Click on Next.
 <p>
 <img src="images/AD-4.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -64,10 +65,13 @@ From Microsoft Azure porta, Search for <b>Azure AD Domain Services</b> and click
 <img src="images/AD-6.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b>- Step 9:</b>
+We can see that, the deployment under progress. (This can take up to 30 to 40 minutes).
+
 <p>
 <img src="images/AD-9.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<b>- Step 9:</b>
+<b>- Step 10:</b>
+You can now see, the deployment is completed. 
 <p>
 <img src="images/ad-final.png" alt="Azure active Directory Domain Service"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
